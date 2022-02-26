@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of a victory, obtained by the forces under the command of Gen. Edward Doyley, commander in chief of his Highnesse's forces in the island of Jamaica. Against the forces of the king of Spain, commanded by Don Christopher Arnaldo Sasi, commander in chief of the Spanish forces there.</title>
+            <author>Doyley, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77456</idno>
+            <idno type="STC">Wing B4623</idno>
+            <idno type="STC">ESTC R233729</idno>
+            <idno type="EEBO-CITATION">45097575</idno>
+            <idno type="OCLC">ocm 45097575</idno>
+            <idno type="VID">171187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171187)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2566:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of a victory, obtained by the forces under the command of Gen. Edward Doyley, commander in chief of his Highnesse's forces in the island of Jamaica. Against the forces of the king of Spain, commanded by Don Christopher Arnaldo Sasi, commander in chief of the Spanish forces there.</title>
+                  <author>Doyley, Edward.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Christopher Higgins, in Harts-Close, over against the Trone-Church,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Edw. Doyley.</note>
+                  <note>Reproduction of original in the California State Library, Sutro Branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Doyley, Edward.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Jamaica --  History.</term>
+               <term>Spain --  History --  Philip IV, 1621-1665.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="newsbook">
+            <pb n="1" facs="tcp:171187:1"/>
+            <head>A BRIEF RELATION OF A VICTORY, Obtained by the Forces under the Com<g ref="char:EOLhyphen"/>mand of Gen. <hi>Edward Doyley,</hi> Com<g ref="char:EOLhyphen"/>mander in chief of his Highneſſe's Forces in the Iſland of JAMAICA. AGAINST The Forces of the King of SPAIN, Com<g ref="char:EOLhyphen"/>manded by Don <hi>Chriſtopher Arnaldo Saſi,</hi> Comander in chief of the Spaniſh Forces there.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Eighth of <hi>May</hi> laſt, the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> made good my Intelli<g ref="char:EOLhyphen"/>gence to your Honour, by land<g ref="char:EOLhyphen"/>ing thirty Captains, thirty Al<g ref="char:EOLhyphen"/>feres, and thirty Companies of foot, at a place called <hi>Rio Nova</hi> in the North of this
+<pb n="2" facs="tcp:171187:2"/> Iſland, who were there about twelve dayes before they were diſcovered; at which time our Ships plying up and down ſaw three ſail of <hi>Spaniſh</hi> in that Bay, and made an attempt to have boarded them, but being becalmed could not effect it. That night the <hi>Spaniards</hi> ſtole away, and our Ships came to acquaint me therewith. I immediatly called a Coun<g ref="char:EOLhyphen"/>cill of War, as the affair did importune, and we debated, Whether it were moſt advan<g ref="char:EOLhyphen"/>tagious to aſſault them preſently, or let them partake of the diſtempers and want of the Country, and when ſickneſſe had weakned them, to attempt them then; though much might have been and was urged, how In<g ref="char:EOLhyphen"/>vaders were to be uſed with delayes, &amp;c. yet the exceeding deſire of the Officers and Souldiers to be doing with them, cut off all debates, and determined a ſudden Reſoluti<g ref="char:EOLhyphen"/>on to fall upon them before they were For<g ref="char:EOLhyphen"/>tified, So I commanded-out 750. Officers
+<pb n="3" facs="tcp:171187:2"/> and Souldiers, and on the 11<hi rend="sup">th</hi> of <hi>June</hi> laſt, we ſet ſail from this Harbour towards them, and on the 22<hi rend="sup">th</hi> in the morning we landing on a Bay, which was defended by two Com<g ref="char:EOLhyphen"/>panies and two Captains, within half ſhot of their Cannon, playing from their Fort; Our Forlorn went on with ſuch gallantry, and leapt into the water with ſo much chear<g ref="char:EOLhyphen"/>fulneſſe, that perſwaded the Enemy they would not be denied entrance, and ſo they ran, leaving one of their Captains, and about 23. ſlain, the other we took wounded, who died ſince; then we made all the haſt, and in the ſpace of an hour landed our men, their Cannon playing all the while on us with little ſucceſſe: that day we ſpent in playing upon their Fort from our Ships, though the place being of ſo vaſt a height, they could bear to do them little harm. The next day, underſtanding their numbers to be more than ours, we were at a ſtand how to attempt
+<pb n="4" facs="tcp:171187:3"/> them, having fortified themſelves, and ha<g ref="char:EOLhyphen"/>ving ſix peeces of Ordnance, and a River to to paſſe, the depth whereof we knew not; VVherefore, after our Ladders were made, and other things fitted aſwell as we could, in the evening I ſent a Drummer, partly to diſcover the depth of the River he was to paſſe, with this Summons following;</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="summons">
+                        <opener>
+                           <salute>SIR,</salute>
+                        </opener>
+                        <p>BEing here with the Forces of the Mighty Prince, the Protector of <hi>England,</hi> and the Dominions thereunto belonging, I do in his Name, and for his uſe, require and ſummon you, to deliver-up the Fort of <hi>Rio Nova,</hi> with the Ordnance and Ammunition therein; aſſu<g ref="char:EOLhyphen"/>ring you honourable tearms, and tranſport to your Country: which if you refuſe, I ſhall be acquitted of the bloud which ſhall be ſhed. I expect the return of my Drummer within an hour, and am, Your very humble ſervant,</p>
+                        <closer>
+                           <signed>E. D.</signed>
+                        </closer>
+                        <trailer>For Don <hi>Chriſtopher Arnaldo Saſi,</hi> Commander in chief of the Spaniſh Forces.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="5" facs="tcp:171187:3"/>
+            <p> The Drummer was very civilly treated, the General gave him 25. pieces of Eight, ſent me a Jar of Sweet<g ref="char:EOLhyphen"/>meats, and this Anſwer.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>LORD GENERAL,</salute>
+                  </opener>
+                  <p>
+                     <hi>DON Chriſtopher Arnaldo &amp; Saſa,</hi> Governour for his Majeſty the King of <hi>Spain,</hi> my Lord of the Iſland of <hi>Jamaica,</hi> an<g ref="char:EOLhyphen"/>ſwering to your Letter, wherein you require me to deliver the Fort of <hi>Rio Nova</hi> and what elſe is therein; I ſay, Sir, that his Majeſty (whom God preſerve) hath appointed me for Gover<g ref="char:EOLhyphen"/>nour of this Iſland, being his own property, and hath remitted me unto it a Regiment of Spa<g ref="char:EOLhyphen"/>niſh Infantry, and twenty foot Companies to de<g ref="char:EOLhyphen"/>fend it; the Forts and Caſtles of his Majeſtie are not yeelded with ſo much facility; hitherto I have received no batteries, nor have you made any advance, I want no Powder, Ball, Provi<g ref="char:EOLhyphen"/>ſions, nor gallant Men, that know how to die before they be overcome. God keep your Honour many years in thoſe Comands that you deſire.</p>
+                  <trailer>
+                     <hi>Don Chriſtopher Arnaldo Saſa,</hi> to the General Monſieur Monſieur <hi>Doyley,</hi> Governour General of the Forces of <hi>England,</hi> Theſe.</trailer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:171187:4"/>
+            <p> VVe made no more demurs, but reſolved to march the morrow morning. So I or<g ref="char:EOLhyphen"/>dered two of our Veſſels to ſet ſail Leeward, to perſwade them we intend to ſtand on that ſide of them, the other ſhips to warp as near as they could, and play on them, while we fell on the other ſide: We marched aſſoon as it was light, having two miles to go, being through a VVood on the backſide of them; about a quarter of a mile from their Fort we met a party on a Work, on a high Hill, pre<g ref="char:EOLhyphen"/>pared to obſtruct our going over the River, who only gave us a fruitleſſe Volley, ran to their Fort and told them, All the world was coming; we climbed that Hill with much ado, refreſhed our wearineſs and advanced; when we came in ſight of their Fort, which we found, to our exceeding joy, was not fi<g ref="char:EOLhyphen"/>niſhed to that height as that to the Seaward: We ordered our buſineſſe with our forlorn Ladders and Hand-Granadoes, and with<g ref="char:EOLhyphen"/>out
+<pb n="7" facs="tcp:171187:4"/> any further diſpute, received their ſhot and ran up to their Flankers, which, in a quarter of an hour, we gained; many of them made ſhift to run out of their Works, and ours followed their chaſe about three or four miles, doing execution; the Sea<g ref="char:EOLhyphen"/>men likewiſe, ſeeing of them run along the Rocks, came out with their Boats and killed many of them.</p>
+            <p>In this Fort we took about Ten double Barrels of Pouder; Shot, great ſtore; Six Peeces of Ordnance; great ſtore of Provi<g ref="char:EOLhyphen"/>ſions, Wine, Brandie, Salt, Oile, and other Proviſions for eight months, as they termed it. There was ſlain about Three hundred perſons, divers Captains, two Prieſts, and their Serjeant Major: About an hundred ordinary Priſoners taken, and ſix Captains which we have ſent home; the King <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Spain's</hi> Standard, and ten Colour<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reſt, eſpecially the ſtraglers that are
+<pb n="8" facs="tcp:171187:5"/> VVoods, muſt of neceſsity periſh.</p>
+            <p>Though this Mercy was very great, yet our joy had ſome abatement, by the loſſe of Captain <hi>Wiſeman,</hi> Capt. <hi>Meers,</hi> Capt. Lieut. <hi>Walker,</hi> Capt. Lieut. <hi>Robinſon,</hi> and Enſign <hi>Farrar,</hi> men, for their gallantry, ra<g ref="char:EOLhyphen"/>ther to be admired than commended; about twenty three private Souldiers killed, and thirty four wounded, whereof ſome are ſince dead; ſome other of our Officers ſlightly wounded with ſtones. <hi>Thus hath the Lord made known His Salvation: His Righteouſ<g ref="char:EOLhyphen"/>neſs hath He openly ſhewed in the ſight of the heathen.</hi> I have ſent this ſhort Narration, becauſe it comes by Colonel <hi>Barrey,</hi> who was an eye-witneſſe, and principall Actor herein, and reſt,</p>
+            <closer>
+               <signed>Your Honours faithful ſervant, <hi>EDW. DOYLEY.</hi>
+               </signed>
+               <dateline>
+                  <hi>Caoway</hi> in <hi>Jamaica,</hi> 
+                  <date>the 12th <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>July,</hi> 1658.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>DINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Chriſtopher Higgins,</hi> in <hi>Hartſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> Cloſe, over againſt the Trone-Church, <hi>Anno Dom.</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
